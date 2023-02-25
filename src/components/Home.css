@@ -1,0 +1,20 @@
+.movieResult{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.resultHeader{
+    color: white;
+    font-size: 30px;
+    margin-left:40px;
+}
+.App{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color:  #1E1E1E;
+    height: max-content;
+}

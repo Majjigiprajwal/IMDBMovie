@@ -1,0 +1,49 @@
+.card{
+    margin: 10px;
+    width: 350px;
+    height: 550px;
+    background-color:none;
+    margin: 0;
+    border-radius: 5px;
+    border: solid 2px white;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    font-size: 18px;
+    color: white;
+}
+.knowmore{
+    width: 80%;
+    height:40px;
+    text-align: center;
+    font-size: 18px;
+    background-color:white;
+    color:black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-left:35px;
+    border: none;
+    
+}
+.image{
+    width:350px;
+    height:350px;
+}
+.title{
+    height:30px;  
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-bottom: 5px;
+}
+.text{
+    height:30px;
+    margin-bottom: 5px;
+}
+
+.details{
+    margin: 20px;
+    font-size: 22px;
+}
+
